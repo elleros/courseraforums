@@ -8,13 +8,13 @@ The dataset has been anonymized as follows: the text and the names of the author
 
 If you use the dataset for your work, please cite the paper. __BiBTeX entry:__
 
-#@inproceedings{coursera-iri2014,
-#   author = {Lorenzo A. Rossi and Omprakash Gnawali},
-#   title = {{Language Independent Analysis and Classification of Discussion Threads in Coursera MOOC Forums}},
-#   booktitle = {Proceedings of the IEEE International Conference on Information Reuse and Integration (IRI 2014)},
-#   month = aug,
-#   year = {2014}
-#}
+@inproceedings{coursera-iri2014,
+   author = {Lorenzo A. Rossi and Omprakash Gnawali},
+   title = {{Language Independent Analysis and Classification of Discussion Threads in Coursera MOOC Forums}},
+   booktitle = {Proceedings of the IEEE International Conference on Information Reuse and Integration (IRI 2014)},
+   month = aug,
+   year = {2014}
+}
 
 
 __Note__: the actual dataset is going to be uploaded around the end of July and no later than August 13th, 2014,when the associated paper will be presented to the public a the IEEE IRI 2014 conference.
