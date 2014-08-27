@@ -17,4 +17,4 @@ If you use the dataset for your work, please cite the paper. __BiBTeX entry:__
 }
 
 
-__Note__: the actual dataset is going to be uploaded around the end of July and no later than August 13th, 2014,when the associated paper will be presented to the public a the IEEE IRI 2014 conference.
+__Note__: the actual dataset is going to be uploaded around the beginning of September 2014. We apologize for the delay. If you have any questions, please send them to lorenzo {dot} rossi {at} gmail.
