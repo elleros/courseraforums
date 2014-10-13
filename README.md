@@ -17,4 +17,4 @@ If you use the dataset for your work, please cite the paper. __BiBTeX entry:__
 }
 
 
-__Note__: the actual dataset is going to be uploaded around the beginning of September 2014. We apologize for the delay. If you have any questions, please send them to lorenzo {dot} rossi {at} gmail.
+__Note__: we plan to upload the actual dataset around the end of October 2014. We apologize for the delay. If you have any questions, please send them to lorenzo {dot} rossi {at} gmail.
