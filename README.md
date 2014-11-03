@@ -4,7 +4,7 @@ This repository provides the anonymized versions of the discussion threads from 
 
 [Language independent analysis and classification of discussion threads in coursera MOOC forums](http://www2.cs.uh.edu/~gnawali/papers/coursera-iri2014-abstract.html), by Lorenzo A. Rossi and Omprakash Gnawali, IEEE International Conference on Information Reuse and Integration (IRI), August 2014.
 
-The dataset has been anonymized as follows: the text and the names of the authors of all the posts and comments have been removed. The author indentifiers have been re-encoded so not to much the Coursera indentifiers.
+The dataset has been anonymized as follows: the text and the names of the authors of all the posts and comments have been removed. The user indentifiers have been hashed so not to match the Coursera indentifiers.
 
 If you use the dataset for your work, please cite the paper. __BiBTeX entry:__
 
