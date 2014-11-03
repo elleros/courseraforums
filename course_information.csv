@@ -1,0 +1,61 @@
+name,course_id,weeks,hours,start_date,end_date,type,language,num_threads,mandatory_posts,num_users
+Analyse Numérique pour Ingénieurs,analysenumerique-001,9,5,2/18/2013,,Q,FR,119,,103
+Asset Pricing,assetpricing-001,9,12.5,9/30/2013,,Q,E,673,,392
+Automata,automata-002,6,9,11/4/2013,,Q,E,429,,493
+Big Data in Education,bigdata-edu-001,8,7,10/24/2013,,?,E,585,,710
+Bioinformatics Algorithms (Part 1),bioinformatics-001,12,9,11/4/2013,1/27/2014,Q,E,1160,,941
+Blended Learning: Personalizing Education for Students,blendedlearning-001,6,3,10/15/2013,,E,E,4596,10,3022
+"Synapses, Neurons and Brains",bluebrain-001,9,?,3/31/2013,,S,E,1032,,2040
+Climate Literacy: Navigating Climate Change Conversations,climateliteracy-002,10,4,9/30/2013,,S,E,1029,Y,948
+Compilers,compilers-003,12,15,2/11/2013,,Q,E,436,,355
+Computational Methods for Data Analysis,compmethods-004,10,11,1/6/2014,,Q,E,188,,269
+Cryptography I,crypto-008,6,6,9/9/2013,,Q,E,395,,666
+Conceptos y Herramientas para la Física Universitaria,cyhfisica-001,9,4.5,9/23/2013,,Q,SP,109,,187
+Data Analysis,dataanalysis-002,8,6,10/28/2013,,Q,E,1899,,2067
+Introduction to Data Science,datasci-001,8,9,5/1/2013,6/28/2013,Q,E,4566,,6173
+Design: Creation of Artifacts in Society,design-003,8,7.5,10/21/2013,,A,E,572,,700
+Designing Cities,designingcities-001,10,5,10/7/2013,,?,E,468,,1286
+Creative Programming for Digital Media & Mobile Apps,digitalmedia-001,6,7.5,6/10/2013,,Q,E,2406,,2854
+Data Structures and Algorithms,dsalgo-001,14,6,10/20/2013,,Q,CH,284,,251
+Digital Signal Processing,dsp-002,9,9,10/7/2013,,Q,E,665,,496
+E-learning and Digital Cultures,edc-002,5,6,11/4/2013,,E,E,390,,698
+Understanding Einstein: The Special Theory of Relativity,einstein-001,8,5,4/8/2013,,Q,E,1505,,1577
+An Introduction to Corporate Finance,finance-001,6,7,10/28/2013,,Q,E,843,,1507
+"Networks: Friends, Money, and Bytes",friendsmoneybytes-002,13,8,2/4/2013,,Q,E,103,,203
+Game Theory,gametheory-003,9,6,10/14/2013,,Q,E,349,,664
+Gamification,gamification-003,10,6,1/27/2014,,?,E,1566,,4025
+Experimental Genome Science,genomescience-002,12,7,9/30/2013,,S,E,229,,406
+Global Warming: The Science of Climate Change,globalwarming-001,8,3.5,10/21/2013,,S,E,1020,,1007
+Human-Computer Interaction,hci-004,9,11,10/7/2013,,?,E,1003,,1029
+"History of Rock, Part One",historyofrock1-002,7,3,9/2/2013,,H,E,326,,959
+A Brief History of Humankind,humankind-001,17,3,8/11/2013,,H,E,3038,,4371
+Initiation à la programmation (en C++),intro-cpp-fr-001,7,6,9/23/2013,,Q,FR,610,,671
+Initiation a La Programmation En Java,intro-java-fr-001,7,6,9/23/2013,,Q,FR,620,,741
+The Law of the European Union: An Introduction,introeulaw-001,5,6.5,6/10/2013,,?,E,738,,1399
+Introduction to Psychology,intropsych-001,8,5,5/6/2013,,S,E,9300,?,11989
+Statistics: Making Sense of Data,introstats-001,8,7,4/1/2013,,Q,E,1131,,2313
+Inspiring Leadership through Emotional Intelligence,lead-ei-001,6,4,5/1/2013,,B,E,7893,Y,10447
+Linear and Integer Programming,linearprogramming-001,9,6,9/2/2013,,Q,E,753,,706
+Mathematical Methods for Quantitative Finance,mathematicalmethods-002,8,9,12/11/2013,,Q,E,177,,526
+The Social Context of Mental Health and Illness,mentalhealth-002,6,6,6/24/2013,,S,E,2862,,1955
+Machine Learning,ml-003,10,6,4/22/2013,,Q,E,5188,,6368
+Nanotechnology: The Basics,nanotech-001,9,6,11/11/2013,,Q,E,826,,1025
+Neural Networks for Machine Learning,neuralnets-2012-001,8,8,10/1/2012,,Q,E,1265,,1137
+Natural Language Processing,nlangp-001,10,9,2/14/2013,,Q,E,1162,,1245
+"Online Games: Literature, New Media, and Narrative",onlinegames-001,6,5,9/9/2013,,H,E,784,,1355
+Organizational Analysis,organalysis-002,10,?,9/19/2013,,B,E,2144,,3691
+Probabilistic Graphical Models,pgm-003,11,17.5,4/8/2013,,Q,E,916,,768
+Bioinformatics: Introduction and Methods,pkubioinfo-001,6,3.5,9/30/2013,,Q,CH,230,,484
+Introduction to Computing,pkuic-001,15,7,9/30/2013,,Q,CH,859,,678
+Pre-Calculus,precalc-001,8,7,9/16/2013,,Q,SP,308,,320
+Functional Programming Principles in Scala,progfun-003,7,6,9/16/2013,,Q,E,1528,,1760
+Learn to Program: The Fundamentals,programming1-002,7,7,8/19/2013,,Q,E,3414,,4774
+Learn to Program: Crafting Quality Code,programming2-001,5,7,3/25/2013,,Q,E,1171,,1317
+The Fiction of Relationship,relationship-001,12,13.5,6/3/2013,,H,E,1883,,2753
+Writing in Sciences,sciwrite-2012-001,8,6,9/24/2012,,W,E,1313,,3418
+Social Network Analysis,sna-003,9,7.5,10/7/2013,,Q,E,908,,1061
+Startup Engineering,startup-001,12,"2,20",6/17/2013,9/23/2013,Q,E,6416,,8592
+Statistics One,stats1-002,12,6.5,9/22/2013,,Q,E,2791,,4907
+Useful Genetics Part 1,usefulgenetics-002,6,7,11/1/2013,,?,E,860,,613
+Video Games and Learning,videogameslearning-001,6,5,10/3/2013,,E,E,8694,,3415
+Virology I: How Viruses Work,virology-001,11,4,8/1/2013,,S,E,901,,1397
