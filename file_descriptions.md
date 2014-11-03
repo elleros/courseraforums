@@ -1,47 +1,46 @@
-# file_information
+# Description of the CSV files
+
+### course_information.csv
+* __name__ course name
+* __course_id__ Coursera course identifier
+* __weeks__ course duration (in weeks)
+* __hours__ average number of hours requested per week
+* __start_date__ start date
+* __end_date__ end date (often not enetered in this file)
+* __type__ type of course ('Q': quantitative, ...)
+* __language__
+* __num_threads__ number of threads in the forum
+* __mandatory_posts__ 
+* __num_users__ number of users
+
+### course_subforums.csv
+* __thread_id__
+* __course_id__ Coursera course identifier
+* __og_forum__
+* __og_forum_id__
+* __parent_forum__
+* __parent_forum_id__
+* __forum_chain__
+* __depth__
+* __num_views__ number of views
+* __num_tags__ number of tags associated to the subforum title
+* __forum_id__
+
+### course_posts.csv
+* __post_id__
+* __thread_id__
+* __course_id__ Coursera course identifier
+* __parent_id__
+* __order__
+* __user_id__ user ID (hashed version of original Coursera ID)
+* __user_type__
+* __post_time__
+* __relative_t__
+* __votes__
+* __forum_id__
 
 
-## course_information.csv
-* name: course name
-* course_id: Coursera course identifier
-* weeks: course duration (in weeks)
-* hours: average number of hours requested per week
-* start_date: start date
-* end_date: end date (often not enetered in this file)
-* type: type of course ('Q': quantitative, ...)
-* language: 
-* num_threads
-* mandatory_posts
-* num_users
-
-## course_subforums.csv
-* thread_id
-* course_id
-* og_forum
-* og_forum_id
-* parent_forum
-* parent_forum_id
-* forum_chain
-* depth
-* num_views
-* num_tags
-* forum_id
-
-## course_posts.csv
-* post_id
-* thread_id
-* course_id
-* parent_id
-* order
-* user_id
-* user_type
-* post_time
-* relative_t
-* votes
-* forum_id
-
-
-
+This repository is associated to the paper:
 [Language independent analysis and classification of discussion threads in coursera MOOC forums](http://www2.cs.uh.edu/~gnawali/papers/coursera-iri2014-abstract.html), by Lorenzo A. Rossi and Omprakash Gnawali, IEEE International Conference on Information Reuse and Integration (IRI), August 2014.
 
 The dataset has been anonymized as follows: the text and the names of the authors of all the posts and comments have been removed. The author indentifiers have been re-encoded so not to much the Coursera indentifiers.
