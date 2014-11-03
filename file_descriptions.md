@@ -10,8 +10,8 @@
 * __type__ type of course ('Q': quantitative, ...)
 * __language__
 * __num_threads__ number of threads in the forum
-* __mandatory_posts__ 
-* __num_users__ number of users
+* __mandatory_posts__ number of posts to receive credits for activity in the forums some Coursera courses give credits for posting in the forums 
+* __num_users__ number of unique users active in the forum. Anonymous users are counted as 1 unit; so the number of actual users may be larger.
 
 ### course_subforums.csv
 * __thread_id__
