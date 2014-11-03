@@ -67,7 +67,7 @@ Data aboout all the posts or comments (minus spam) made in the discussion forums
 * __relative_t__ normalized posting time relative to the course's start and end time
 * __votes__ sum of the votes received by the post (comment). Each user can add +/-1 to a post 
 * __forum_id__ possibly re-mapped subforum identifier 
-*    * 2: General (Miscellaneous) Discussion
+   * 2: General (Miscellaneous) Discussion
    * 3: Assignments 
    * 4: Study Groups / Meetups
    * 7: Course Feedback / Suggestions
