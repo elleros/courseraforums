@@ -12,6 +12,7 @@ If you use the dataset for your work, please cite the paper. __BiBTeX entry:__
    year = {2014}
 }
 ```
+If you have questions, email lorenzo __[dot]__ rossi __[at]__ gmail
 
 The dataset has been anonymized as follows: the text and the names of the authors of all the posts and comments have been removed. The author indentifiers have been hashed so not to match the Coursera user indentifiers. Anonymous users have ID 0 on this repository as well as on Coursera.
 
