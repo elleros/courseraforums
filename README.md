@@ -64,7 +64,8 @@ Data aboout all the posts or comments (minus spam) made in the discussion forums
 * __user_type__  'Student', 'Anonymous', 'Staff', 'Instructor', 'Community TA', 'Coursera Staff' or 'Coursera Tech Support'
 * __post_time__ time stamp
 * __relative_t__ normalized posting time relative to the course's start and end time
-* __votes__ sum of the votes received by the post (comment). Each user can add +/-1 to a post 
+* __votes__ sum of the votes received by the post (comment). Each user can add +/-1 to a post
+* __num_words__ (**new**) number of words (NA for posts in Chinese language)
 * __forum_id__ possibly re-mapped subforum identifier 
 *    * 2: General (Miscellaneous) Discussion
    * 3: Assignments 
