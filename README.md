@@ -12,6 +12,7 @@ If you use the dataset for your work, please cite the paper. __BiBTeX entry:__
    year = {2014}
 }
 ```
+If you have questions, email lorenzo __[dot]__ rossi __[at]__ gmail
 
 The dataset has been anonymized as follows: the text and the names of the authors of all the posts and comments have been removed. The author indentifiers have been hashed so not to match the Coursera user indentifiers. Anonymous users have ID 0 on this repository as well as on Coursera.
 
@@ -67,7 +68,7 @@ Data aboout all the posts or comments (minus spam) made in the discussion forums
 * __votes__ sum of the votes received by the post (comment). Each user can add +/-1 to a post
 * __num_words__ (**new**) number of words (NA for posts in Chinese language)
 * __forum_id__ possibly re-mapped subforum identifier 
-*    * 2: General (Miscellaneous) Discussion
+   * 2: General (Miscellaneous) Discussion
    * 3: Assignments 
    * 4: Study Groups / Meetups
    * 7: Course Feedback / Suggestions
