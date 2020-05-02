@@ -3,7 +3,7 @@ This repository provides the anonymized versions of the discussion threads from 
 
 [Language independent analysis and classification of discussion threads in coursera MOOC forums](http://www2.cs.uh.edu/~gnawali/papers/coursera-iri2014-abstract.html), by Lorenzo A. Rossi and Omprakash Gnawali, IEEE International Conference on Information Reuse and Integration (IRI), August 2014.
 
-According to the [2018 Google Scholar Metrics](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=Llhi-G0S554J.2018), this paper is the 4th most cited in Information Reuse and Integration. 
+According to the [2019 Google Scholar Metrics](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=Llhi-G0S554J.2019), our paper is the 2nd most cited in Information Reuse and Integration for the July 2014 - July 2019 period. 
 
 If you use the dataset for your work, please cite the paper. __BiBTeX entry:__
 ```
